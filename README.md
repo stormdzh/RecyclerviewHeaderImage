@@ -1,0 +1,2 @@
+# RecyclerviewHeaderImage
+RecyclerviewHeaderImage是一个可以实现Recyclerview头部的图片在下拉过程中，实现缩放的demo
