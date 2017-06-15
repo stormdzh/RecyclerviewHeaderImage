@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:background="#2200ff00"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_anim"
+        android:layout_width="match_parent"
+        android:layout_height="79dp"
+        android:background="#22ff0000"
+        android:scaleType="fitXY"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000000" />
+
+</LinearLayout>
